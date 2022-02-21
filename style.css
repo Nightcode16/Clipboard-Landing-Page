@@ -97,7 +97,7 @@ path {
 
 /* -----Id and Class Styling -----*/
 
-#mac-download {
+.mac-download {
   background-color: var(--light-blue);
   box-shadow: 0px 3px 0px var(--box-shadow-mac), 0 5px 10px var(--light-blue);
 }
